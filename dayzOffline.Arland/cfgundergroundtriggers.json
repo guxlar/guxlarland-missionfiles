@@ -1,0 +1,88 @@
+{
+    "Triggers":
+	[
+		{
+			"Name": "main circle",
+			"Position": [ 2810.5, 116.5, 8724.5],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 185, 9, 193 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Name": "south tunner inner",
+			"Position": [ 2746, 116.5, 8602.5],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 18, 9, 51 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Name": "south tunner mid",
+			"Position": [ 2701.5, 116.5, 8582],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 71, 9, 14 ],
+			"EyeAccommodation": 0.5,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Name": "south tunner outer",
+			"Position": [ 2672.5, 116.5, 8550.5],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 13, 9, 49 ],
+			"EyeAccommodation": 0.9,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Name": "west tunner inner",
+			"Position": [ 2646, 116.5, 8750],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 144, 9, 38 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Name": "west tunner mid",
+			"Position": [ 2580.5, 116.5, 8794.5],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 13, 9, 51 ],
+			"EyeAccommodation": 0.5,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Name": "west tunner outer",
+			"Position": [ 2558.75, 116.5, 8814],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 30.5, 9, 12 ],
+			"EyeAccommodation": 0.9,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Name": "stairwell top",
+			"Position": [ 2893, 132.5, 8728],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 8, 15, 6 ],
+			"EyeAccommodation": 0.5,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Name": "stairwell bottom",
+			"Position": [ 2893, 118.5, 8728],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 8, 13, 6 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		}
+	]
+}
+
+
